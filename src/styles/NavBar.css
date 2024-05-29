@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+a {
+    font-weight: 500;
+    color: #2B46BD;
+    text-decoration: inherit;
+}
+
+.navbar{
+background-color: #EDFFCC;
+color: white;
+padding: 0px 0px 0px 0px;
+}
+
+img {
+    width: 60px;
+    padding-right: 10px;
+}
